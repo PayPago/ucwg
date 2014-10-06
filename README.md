@@ -1,7 +1,5 @@
-ucwg
-====
-
 # Universal Cryptocurrencies Wallets Generator
+====
 
 ## To Do List
 
