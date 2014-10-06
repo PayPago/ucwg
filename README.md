@@ -1,5 +1,4 @@
 # Universal Cryptocurrencies Wallets Generator
-====
 
 ## To Do List
 
@@ -9,3 +8,4 @@
 4. Include a Bootstrap template.
 5. Fix the "culture" bug.
 6. Include and link the initial decimal of the address to the existing list of cryptocurrencies.
+7. Replace the image table for a html table.
